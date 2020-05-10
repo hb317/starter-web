@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ##Introduction
-understanding how to setup repository
+To understanding, how to setup repository by various commands.
 
 ## Purpose
 
