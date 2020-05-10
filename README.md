@@ -10,6 +10,6 @@ To understanding, how to setup repository by various commands.
 Sample website with plenty of files for demos
 
 ## Deployement
-
+to practise git bash for career growth..
 
 ## How to contribute
