@@ -14,5 +14,7 @@ to practise git bash for career growth..
 
 ## How to contribute
 
+Please fork this repository and then issue pull for review.
+
 ### Copyright
 during Covid-19 lockdown
