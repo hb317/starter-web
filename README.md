@@ -15,3 +15,4 @@ to practise git bash for career growth..
 ## How to contribute
 
 ### Copyright
+during Covid-19 lockdown
