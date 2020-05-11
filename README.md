@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 to practise git bash for career growth..
 
 ## How to contribute
+
+### Copyright
