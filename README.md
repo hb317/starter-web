@@ -18,4 +18,4 @@ to practise git bash for career growth..
 Please fork this repository and then issue pull for review.
 
 ### Copyright
-during Covid-19 lockdown
+during Covid-19 lockdown. All rights reserved
