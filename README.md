@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.
-Adding a line for rebasing example ex 58, more changes from myfeature branch too.
+updating for git stash -u command for files which we are not sure about tracing in git.
 
 ##Introduction
 To understanding, how to setup repository by various commands.
